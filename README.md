@@ -7,14 +7,9 @@ Sales forecasting for the supply chain industry.
   <a href="#license">License</a>
 </p>
 
-<div align="center">
-
-  
-</div>
-
 ## About
 
-Supply chain sales forecasting are a Jupyter notebook that contains aggregation techniques used to extract insights from real supply     chain data.
+SalesPrediction_For_SupplyChain are a Jupyter notebook that contains aggregation techniques used to extract insights from real supply chain data.
 It was trained in keras and used [Tensorflow](https://www.tensorflow.org) as a backend.
   
  
@@ -26,10 +21,10 @@ It was trained in keras and used [Tensorflow](https://www.tensorflow.org) as a b
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Mohamed-94/Alpha-Mine-ChatBot
+$ git clone https://github.com/Mohamed-94/SalesPrediction_For_SupplyChain
 
 # Go into the repository
-$ cd Alpha-Mine-ChatBot
+$ cd SalesPrediction_For_SupplyChain
 
 ```
 *If you have installed jupyter with Anaconda distribution then from your Anaconda prompt run:
@@ -50,5 +45,3 @@ MIT
 ---
 
 > GitHub [@Mohamed-94](https://github.com/Mohamed-94) &nbsp;&middot;&nbsp;
-
-
