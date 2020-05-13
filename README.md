@@ -1,5 +1,5 @@
 # SalesPrediction_For_SupplyChain
-Sales forecasting for the supply chain industry.
+Sales forecasting for Supply Chain industry.
  
 <p align="center"> 
   <a href="#about">About</a> •
@@ -9,8 +9,8 @@ Sales forecasting for the supply chain industry.
 
 ## About
 
-SalesPrediction_For_SupplyChain are a Jupyter notebook that contains aggregation techniques used to extract insights from real supply chain data.
-It was trained in keras and used [Tensorflow](https://www.tensorflow.org) as a backend.
+SalesPrediction_For_SupplyChain is a Jupyter notebook that contains aggregation techniques used to extract insights from real Supply Chain data.
+trained with keras and used [Tensorflow](https://www.tensorflow.org) as a backend.
   
  
 ## Usage
